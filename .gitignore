@@ -34,3 +34,6 @@ coverage
 
 # Vitest
 __screenshots__/
+
+# Ignore duplicate project directory
+big-event-frontend/
